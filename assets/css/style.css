@@ -1,0 +1,29 @@
+
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    max-width: 960px;
+    background-image: url(../images/UtahBillboard.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-position-y: 398%;
+    background-color: black;
+
+
+}
+.gamewrap {
+    display: inline-block;
+    outline: 10px solid #a16659;
+    padding: 25px;
+    position: relative;
+    margin-top: 103px;
+    margin-left: 139px;
+    color: white;
+    background-color: #839d55;
+}
