@@ -4,7 +4,11 @@ h1 {
     font-size: 60px;
     text-align: center;
     display: inline-block;
+    color: white;
 
+}
+h2 {
+    font-size: 20px;
 }
 
 body {
@@ -12,7 +16,7 @@ body {
     background-image: url(../images/UtahBillboard.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
-    background-position-y: 398%;
+    background-position-y: 7%;
     background-color: black;
 
 
@@ -22,8 +26,33 @@ body {
     outline: 10px solid #a16659;
     padding: 25px;
     position: relative;
-    margin-top: 103px;
-    margin-left: 139px;
-    color: white;
+    margin-top: 36px;
+    margin-left: 110px;
+    color: black;
     background-color: #839d55;
+    text-align: center;
+}
+
+#button {
+    background-color: tomato;
+    padding: 15px 32px;
+    font-size: 45px;
+    margin-bottom: 25px;
+    color: white;
+
+}
+
+.gameSpecs {
+    background-color: #839d55;
+    outline: 10px solid #a16659;
+    display: inline-block;
+    padding: 25px;
+    float: right;
+    margin-top: 389px;
+    font-size: 45px;
+    text-align: center;
+}
+form {
+    display: none;
+    
 }
