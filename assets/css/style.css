@@ -33,10 +33,10 @@ body {
     text-align: center;
 }
 
-#button {
+#play #again {
     background-color: tomato;
     padding: 15px 32px;
-    font-size: 45px;
+    font-size: 30px;
     margin-bottom: 25px;
     color: white;
 
