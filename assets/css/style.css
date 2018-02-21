@@ -26,17 +26,17 @@ body {
     outline: 10px solid #a16659;
     padding: 25px;
     position: relative;
-    margin-top: 36px;
+    margin-top: 287px;
     margin-left: 110px;
     color: black;
     background-color: #839d55;
     text-align: center;
 }
 
-#play #again {
+#play  {
     background-color: tomato;
-    padding: 15px 32px;
-    font-size: 30px;
+    padding: 15px 15px;
+    font-size: 20px;
     margin-bottom: 25px;
     color: white;
 
@@ -48,7 +48,7 @@ body {
     display: inline-block;
     padding: 25px;
     float: right;
-    margin-top: 389px;
+    margin-top: 300px;
     font-size: 45px;
     text-align: center;
 }
