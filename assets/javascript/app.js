@@ -28,7 +28,7 @@ function startTimer (duration, display){
 function startGame(){
     $('#play').on('click', function (event) {
         $("form").show();
-    var oneMinute = 20,
+    var oneMinute = 60,
         display = document.querySelector('#countDown');
     startTimer(oneMinute, display);
     })
